@@ -1,0 +1,33 @@
+@charset "UTF-8";
+*{margin: 0;padding: 0;}
+body{
+    background-image: url(pacote-d013/imagens/fundo-madeira.jpg);
+    background-size: cover;position: absolute;}
+
+
+div section img#iphone{
+    position: relative;
+    top:5vw;
+    left: 40vw;
+    height: 80vh;
+    }
+
+   
+        
+        
+        section>iframe
+        {    height: 379px;
+            max-width: 214px;
+            position: absolute;
+            top: 10vw;
+            left: 41vw;
+           
+            }
+    #sr{
+    position: absolute;
+    left: 80vw;
+    top: 10vw;
+    
+    margin: 10px;}
+
+    .ir{width: 50px;margin-bottom: 5px;}
